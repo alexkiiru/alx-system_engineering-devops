@@ -1,1 +1,0 @@
-prints out current directory
