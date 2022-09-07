@@ -1,0 +1,1 @@
+#!/bin/bash\lngrep [[:alpha:]*] /etc/ssh/sshd_config
